@@ -1,0 +1,92 @@
+{
+  "targets": [
+    {
+      "id": "864rrb",
+      "createdAt": "2025-12-22T11:23:28.440Z",
+      "codeName": "ben",
+      "region": "jerusalem",
+      "priority": 10,
+      "status": "new"
+    },
+    {
+      "id": "ivr8c",
+      "createdAt": "2025-12-22T11:24:05.190Z",
+      "codeName": "ben",
+      "region": "jerusalem",
+      "priority": 10,
+      "status": "new"
+    },
+    {
+      "id": "czf3",
+      "createdAt": "2025-12-22T11:24:05.737Z",
+      "codeName": "ben",
+      "region": "jerusalem",
+      "priority": 10,
+      "status": "new"
+    },
+    {
+      "id": "le4x",
+      "createdAt": "2025-12-22T11:24:06.052Z",
+      "codeName": "ben",
+      "region": "jerusalem",
+      "priority": 10,
+      "status": "new"
+    },
+    {
+      "id": "8pp15x",
+      "createdAt": "2025-12-22T11:24:06.399Z",
+      "codeName": "ben",
+      "region": "jerusalem",
+      "priority": 10,
+      "status": "new"
+    },
+    {
+      "id": "rklfh6",
+      "createdAt": "2025-12-22T11:24:06.711Z",
+      "codeName": "ben",
+      "region": "jerusalem",
+      "priority": 10,
+      "status": "new"
+    },
+    {
+      "id": "1",
+      "createdAt": "2025-12-22T11:24:07.043Z",
+      "codeName": "chagit",
+      "region": "IL",
+      "priority": 10,
+      "status": "new"
+    },
+    {
+      "id": "wgyv0",
+      "createdAt": "2025-12-22T11:24:07.389Z",
+      "codeName": "ben",
+      "region": "jerusalem",
+      "priority": 10,
+      "status": "new"
+    },
+    {
+      "id": "ll1n",
+      "createdAt": "2025-12-22T12:49:13.448Z",
+      "codeName": "shlomo",
+      "region": "jerusalem",
+      "priority": 10,
+      "status": "new"
+    },
+    {
+      "id": "27fpns",
+      "createdAt": "2025-12-23T09:50:07.604Z",
+      "codeName": "beni",
+      "region": "IL",
+      "priority": 10,
+      "status": "new"
+    },
+    {
+      "id": "qhmmrn",
+      "createdAt": "2025-12-23T09:50:19.301Z",
+      "codeName": "efrat",
+      "region": "IL",
+      "priority": 10,
+      "status": "old"
+    }
+  ]
+}
